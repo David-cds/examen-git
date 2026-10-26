@@ -1,3 +1,7 @@
 Paint
 PowerPoint
 Notas
+Word
+Excel
+Notas
+Firefox
